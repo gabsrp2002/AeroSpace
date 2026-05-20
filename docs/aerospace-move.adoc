@@ -36,7 +36,7 @@ The default is: `workspace`
 
 --boundaries-action <boundary-action>::
 Defines the behavior when requested to move across the `<boundary>`. +
-`<boundary-action>` possible values: `(stop|fail|create-implicit-container)`. +
+`<boundary-action>` possible values: `(stop|fail|create-implicit-container|create-implicit-container-or-fail)`. +
 The default is: `create-implicit-container`
 
 // =========================================================== Examples
